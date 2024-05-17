@@ -104,7 +104,7 @@ nltk==3.8.1
 notebook==6.5.2
 notebook_shim==0.2.2
 numexpr==2.8.4
-numpy==1.23.2
+numpy~=1.26.4
 oauthlib==3.2.2
 onnxruntime==1.17.1
 opencv-python==4.9.0.80
